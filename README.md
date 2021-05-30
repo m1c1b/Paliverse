@@ -1,4 +1,5 @@
-### Hi there 👋
+[comment]: <> ([![Paliverse's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=Paliverse&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&#41;]&#40;https://github.com/Paliverse/github-readme-stats&#41;)
+
 
 <!--
 **Paliverse/Paliverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
