@@ -1,4 +1,4 @@
-[comment]: <> ([![kojofosu's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=kojofosu&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&#41;]&#40;https://github.com/kojofosu/github-readme-stats&#41;)
+#Hi there 
 
 
 
